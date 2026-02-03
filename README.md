@@ -1,16 +1,26 @@
-## Hi there 👋
+I am a Computer Engineering student with an interest in backend development, system-level problem solving, and building a strong foundation in programming. I focus on understanding concepts deeply and applying them through practical work.
 
-<!--
-**Merab8/Merab8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Areas of Interest
+- C++ and Object-Oriented Programming  
+- Data Structures and Algorithms  
+- Backend Development and REST APIs  
+- Web Technologies  
+- Embedded Systems and Basic Electronics  
 
-Here are some ideas to get you started:
+### Technical Skills
+- C++, Python  
+- HTML, CSS, JavaScript  
+- Git and GitHub  
+- FastAPI (fundamentals)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Working On
+- Improving problem-solving skills in C++  
+- Understanding frontend–backend communication  
+- Organizing academic projects and code  
+
+### Beyond Tech
+I enjoy reading novels, especially works by Fyodor Dostoevsky and Sylvia Plath, and I like watching movies .
+
+### Contact
+Email: memyrb888@gmail.com  
+LinkedIn: Merab Butt
