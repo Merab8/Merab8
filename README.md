@@ -13,7 +13,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a Computer Engineering student with a strong interest in backend development, system-level problem solving, and building a solid foundation in programming. I focus on understanding concepts deeply and applying them through practical work.
+I'm a Computer Engineering student with a strong interest in backend development, system-level problem solving, and building a solid foundation in programming. Alongside development, I also work on design — creating posters, social media content, and visual branding. I focus on understanding concepts deeply and applying them through practical work.
 
 ---
 
@@ -24,6 +24,7 @@ I'm a Computer Engineering student with a strong interest in backend development
 - Backend Development and REST APIs
 - Web Technologies
 - Embedded Systems and Basic Electronics
+- UI/UX and Graphic Design
 
 ---
 
@@ -38,6 +39,10 @@ I'm a Computer Engineering student with a strong interest in backend development
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
 </p>
 
 ---
@@ -62,6 +67,7 @@ I'm a Computer Engineering student with a strong interest in backend development
 - **Smart Railway Crossing Alert System** — AVR Assembly on ATmega32 with UART-based real-time transmission
 - **Timer0 LED Toggler** — Register-level embedded programming, compatible with Arduino/ATmega328P
 - **[Strokes by Merab](https://instagram.com/strokesbymerab)** — Family-run calligraphy art business, custom pieces on canvas
+- **Event & Brand Posters** — Designed posters and social media graphics using Figma, Canva, and Adobe tools
 
 ---
 
@@ -69,6 +75,7 @@ I'm a Computer Engineering student with a strong interest in backend development
 
 - Improving problem-solving skills in C++
 - Understanding frontend–backend communication
+- Sharpening design skills across Figma, Canva, and Adobe Creative Suite
 
 ---
 
