@@ -77,7 +77,7 @@ I'm a Computer Engineering student with a strong interest in backend development
 - **Pathfinding Explorer** — Comparative analysis of BST search vs. Dijkstra's Algorithm, including average vs. worst-case complexity
 - **Smart Railway Crossing Alert System** — AVR Assembly on ATmega32 with UART-based real-time transmission
 - **Timer0 LED Toggler** — Register-level embedded programming, compatible with Arduino/ATmega328P
-- **[Strokes by Merab](https://instagram.com/strokesbymerab)** — Family-run calligraphy art business, custom pieces on canvas
+
 - **Event & Brand Posters** — Designed posters and social media graphics using Figma, Canva, and Adobe tools
 
 ---
